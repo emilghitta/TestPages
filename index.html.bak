@@ -79,7 +79,6 @@
     <h1>Pro Client Test Cases</h1>  
         <li><a href="TestCases/ProClient/HistoryAndMetadata/f.html">Snapshots test</a></li>
         <li><a href="TestCases/ProClient/HistoryAndMetadata/OpenGraph.html">Open Graph</a></li>
-		<li><a href="TestCases/ProClient/HistoryAndMetadata/OpenGraphLongTitle.html">Open Graph long title</a></li>
         <li><a href="TestCases/ProClient/HistoryAndMetadata/Schema.html">Schema</a></li>
         <li><a href="TestCases/ProClient/HistoryAndMetadata/GraphAndSchema.html">GraphAndSchema</a></li>
         <li><a href="TestCases/ProClient/HistoryAndMetadata/SameGraphAndSchema.html">SameGraphAndSchema</a></li>
